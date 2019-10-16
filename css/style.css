@@ -25,6 +25,7 @@ body,
     margin: 2px 0;
 }
 .layui-input{
+    
     outline: none;
     border: none;
     height: 60px;
